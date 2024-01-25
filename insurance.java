@@ -2,6 +2,7 @@ class policy
 {
  public static void main (String args[])
  {
+    shashank sanath rajesh
    String health="excellent";
    String gender="male";
    String location="city";
